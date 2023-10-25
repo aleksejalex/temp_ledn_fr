@@ -7,7 +7,7 @@ title = SampleApp
 package.name = sampleapk
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.casualmathenjoyer
+package.domain = org.sampledomain
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -63,7 +63,7 @@ orientation = portrait
 # author = © Copyright me
 
 # change the major version of python used by the app
-osx.python_version = 3.7.6
+osx.python_version = 3.11.2  # 3.7.6
 
 # Kivy version to use
 osx.kivy_version = 1.9.1
